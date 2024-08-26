@@ -2,7 +2,7 @@ import { HeaderIcon } from "./icons/HeaderIcon";
 import { MobileMenu } from "./MobileMenu";
 
 import { ToggleTheme } from "./ToggleTheme";
-
+// gitHub turshij uzej baina
 export const Header = ({ handleMenu, isOpenMenu }) => {
   return (
     <div
